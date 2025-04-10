@@ -11,7 +11,7 @@ This is a professional, web-based tool built with Flask and Bootstrap for backin
 - 📦 Optional table-level selection (comma-separated)
 
 ## Screenshots
-_Add a screenshot here of your frontend_
+![image](https://github.com/user-attachments/assets/46ba75fd-efd3-4b56-bfc2-d25ce7b57666)
 
 ## Setup
 ```bash
