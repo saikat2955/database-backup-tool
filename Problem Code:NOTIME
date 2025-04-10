@@ -1,0 +1,7 @@
+n, h,x =map(int,input().split())
+a = list(map(int,input().strip().split()))[:n]
+res = [i + x for i in a]
+if (any(x1 >= h for x1 in res)):
+    print("YES")
+else:
+    print("NO")
